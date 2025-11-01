@@ -3,8 +3,8 @@ import Counter from "./Counter";
 
 const counterData = [
   { id: 1, text: "Years Of Experience", value: "3", valueType: "" },
-  { id: 2, text: "Project Complete", value: "8", valueType: "" },
-  { id: 3, text: "Clients", value: "4", valueType: "" },
+  { id: 2, text: "Project Complete", value: "12", valueType: "" },
+  { id: 3, text: "Clients", value: "7", valueType: "" },
 ];
 
 const Hero = () => {

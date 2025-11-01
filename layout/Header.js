@@ -212,7 +212,7 @@ const Header2 = ({ onePageMenu }) => {
               {/* Main Menu End*/}
             </div>
             {/* Menu Button */}
-            <div className="menu-btns">
+            {/* <div className="menu-btns">
               <Link legacyBehavior href="">
                 <button
                   onClick={() => {
@@ -224,7 +224,7 @@ const Header2 = ({ onePageMenu }) => {
                   Download Resume
                 </button>
               </Link>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
