@@ -14,7 +14,7 @@ export default function Home() {
   return (
     // <Maintenance />
     <MainLayout header={2} onePageMenu={true} footer={1}>
-      <Hero />
+      <Hero2 />
       <About />
       <div className="headline-area-h2 rel z-2 py-25">
         <div className="headline-wrap">
