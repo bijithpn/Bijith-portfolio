@@ -41,9 +41,10 @@ const Projects = () => {
                 </Link>
               </h2>
               <p>
-                Elevate your Flutter app's user experience with my mouse cursor
-                package. Seamlessly integrate mouse support, providing users
-                with a responsive and intuitive interface.
+                Enhance your web application's user experience with my animated
+                mouse cursor package. Seamlessly integrate custom cursor
+                effects, providing users with a responsive and intuitive
+                interface.
               </p>
               <Link
                 legacyBehavior
@@ -107,13 +108,13 @@ const Projects = () => {
                   legacyBehavior
                   href="https://sort-visualizer-c3b8d.web.app/"
                 >
-                  Sort Visualize
+                  Sort Visualizer
                 </Link>
               </h2>
               <p>
-                Dive into the world of algorithms with our Flutter project for
-                sorting visualization. Witness the magic of sorting algorithms
-                come to life through an engaging and interactive visual
+                Dive into the world of algorithms with our web-based sorting
+                visualization tool. Witness the magic of sorting algorithms come
+                to life through an engaging and interactive visual
                 representation.
               </p>
               <Link
@@ -145,8 +146,9 @@ const Projects = () => {
                 </Link>
               </h2>
               <p>
-                Elevate your typing skills with our Flutter-powered website,
-                offering an immersive experience to test and enhance your speed.
+                Elevate your typing skills with our web-based typing speed test
+                application, offering an immersive experience to test and
+                enhance your speed.
               </p>
               <Link legacyBehavior href="https://typing-speed-577bd.web.app/">
                 <a className="details-btn">
@@ -170,12 +172,13 @@ const Projects = () => {
               <span className="sub-title">Flutter Projectt</span>
               <h2>
                 <Link legacyBehavior href="https://my2048game.web.app/">
-                  2048
+                  2048 Game
                 </Link>
               </h2>
               <p>
-                Experience the classic puzzle game in a sleek and responsive
-                interface, designed for a captivating gaming experience.
+                Experience the classic 2048 puzzle game in a sleek and
+                responsive web interface, designed for a captivating gaming
+                experience.
               </p>
               <Link legacyBehavior href="https://my2048game.web.app/">
                 <a className="details-btn">
@@ -335,7 +338,7 @@ export const Projects2 = () => {
                     <a>Sort Visualizer</a>
                   </Link>
                 </h5>
-                <span className="sub-title">Personal Project,Flutter Web</span>
+                <span className="sub-title">Personal Project, Web App</span>
               </div>
             </div>
           </div>
@@ -366,7 +369,7 @@ export const Projects2 = () => {
                     <a>Typing Speed Test </a>
                   </Link>
                 </h5>
-                <span className="sub-title">Personal Project, Flutter Web</span>
+                <span className="sub-title">Personal Project, Web App</span>
               </div>
             </div>
           </div>
@@ -393,7 +396,7 @@ export const Projects2 = () => {
                     <a>2048</a>
                   </Link>
                 </h5>
-                <span className="sub-title">Personal Project, Flutter Web</span>
+                <span className="sub-title">Personal Project, Web App</span>
               </div>
             </div>
           </div>

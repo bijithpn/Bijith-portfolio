@@ -29,11 +29,11 @@ const items = [
     id: 5,
     name: "Node js",
     image: "assets/images/skills/skill5.png",
-    value: "65",
+    value: "75",
   },
   {
     id: 6,
-    name: "Flutter",
+    name: "React",
     image: "assets/images/skills/skill6.png",
     value: "86",
   },
@@ -44,10 +44,10 @@ const items = [
     value: "62",
   },
   {
-    id: 8,
-    name: "VS code",
-    image: "assets/images/skills/skill8.png",
-    value: "94",
+    id: 6,
+    name: "Flutter",
+    image: "assets/images/skills/skill6.png",
+    value: "86",
   },
 ];
 
@@ -66,11 +66,13 @@ const Skill = () => {
                     <span> Tools.</span>
                   </h2>
                   <p>
-                    As a software developer, I leverage a diverse skill set,
-                    including languages like Dart and Javascript, as well as
-                    frameworks such as React and Flutter. This enables me to
-                    engineer efficient and dynamic applications that meet the
-                    highest standards of functionality and user experience
+                    As a full-stack developer, I leverage a diverse skill set,
+                    including languages like JavaScript, TypeScript, and Python,
+                    as well as frameworks such as React, Next.js, Node.js, and
+                    Express. This enables me to engineer efficient and dynamic
+                    applications that meet the highest standards of
+                    functionality and user experience across web and mobile
+                    platforms.
                   </p>
                 </div>
               </div>

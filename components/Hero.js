@@ -2,7 +2,7 @@ import Link from "next/link";
 import Counter from "./Counter";
 
 const counterData = [
-  { id: 1, text: "Years Of Experience", value: "2", valueType: "" },
+  { id: 1, text: "Years Of Experience", value: "3", valueType: "" },
   { id: 2, text: "Project Complete", value: "8", valueType: "" },
   { id: 3, text: "Clients", value: "4", valueType: "" },
 ];
@@ -16,7 +16,7 @@ const Hero = () => {
             <div className="hero-content rmb-55 wow fadeInUp delay-0-2s">
               <span className="h2">Hello, i’m </span>
               <h1>
-                <b>Bijith P N </b>Flutter Developer
+                <b>Bijith P N </b>Full Stack Developer
               </h1>
               <p>I have no special talents. I am only passionately curious.</p>
               <div className="hero-btns">
@@ -80,14 +80,15 @@ export const Hero2 = () => {
       <div className="container rel z-3">
         <div className="hero-two-content">
           <span className="sub-title wow fadeInLeft delay-0-1s">
-            <i className="flaticon-asterisk-1" /> Mobile APP Developer
+            <i className="flaticon-asterisk-1" />
+            Full Stack Developer
           </span>
           <span className="title wow fadeInLeft delay-0-2s">
             Hello <small>i,m</small>
           </span>
           <span className="name wow fadeInRight delay-0-4s">Bijith P N</span>
           <span className="designations wow fadeInLeft delay-0-6s">
-            <span>Flutter</span> Developer
+            <span>Full Stack</span> Developer
           </span>
         </div>
         <div className="row justify-content-center">

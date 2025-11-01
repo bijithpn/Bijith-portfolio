@@ -23,14 +23,18 @@ const About = () => {
                 </h2> */}
                 </div>
                 <div className="text pb-5">
-                  Hi, I&apos;m a developer who loves using Flutter with one year
-                  of practice creating new solutions for Android and web
-                  systems. I am good at making apps that work on different
-                  devices and look great while also running well. I am good at
-                  more than just Flutter.So I can make full solutions from start
-                  to finish. I have done many different tasks and completed them
-                  well. I promise to do my best, change when needed, and make
-                  sure things are easy for users in every project I work on.
+                  Hi, I'm a full-stack developer with three years of hands-on
+                  experience creating innovative web and mobile solutions. My
+                  expertise includes Flutter for cross-platform mobile
+                  development (Android & iOS), along with modern web frameworks
+                  for building responsive, dynamic websites. I work across the
+                  entire development stack - from frontend UI/UX to backend
+                  architecture and database management - ensuring seamless
+                  integration and optimal performance. I've successfully
+                  completed diverse projects including e-commerce platforms,
+                  business websites, and mobile applications. My focus is on
+                  delivering user-friendly, scalable solutions while adapting to
+                  evolving project needs and maintaining high code quality.
                 </div>
                 <div className="row">
                   <div className="col-xl-3 col-sm-4 col-6">
@@ -128,15 +132,18 @@ export const About2 = () => {
                 </h2> */}
                 </div>
                 <div className="text pb-5">
-                  Hi, I&apos;m a developer who loves using Flutter with one year
-                  of practice creating new solutions for Android, iOS, and web
-                  systems. I am good at making apps that work on different
-                  devices and look great while also running well. I am good at
-                  more than just Flutter. I also know Next.js and Node.js well,
-                  so I can make full solutions from start to finish. I have done
-                  many different tasks and completed them well. I promise to do
-                  my best, change when needed, and make sure things are easy for
-                  users in every project I work on.
+                  Hi, I'm a full-stack developer with three years of hands-on
+                  experience creating innovative web and mobile solutions. My
+                  expertise includes Flutter for cross-platform mobile
+                  development (Android & iOS), along with modern web frameworks
+                  for building responsive, dynamic websites. I work across the
+                  entire development stack - from frontend UI/UX to backend
+                  architecture and database management - ensuring seamless
+                  integration and optimal performance. I've successfully
+                  completed diverse projects including e-commerce platforms,
+                  business websites, and mobile applications. My focus is on
+                  delivering user-friendly, scalable solutions while adapting to
+                  evolving project needs and maintaining high code quality.
                 </div>
                 <div className="row">
                   <div className="col-xl-3 col-sm-4 col-6">

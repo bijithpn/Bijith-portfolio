@@ -4,17 +4,17 @@ const MetaTags = () => {
     <Head>
       <meta
         name="description"
-        content="I'm a skilled developer creating stunning, cross-platform mobile experiences. Dive into my portfolio to witness the fusion of beauty and functionality in each project. Let's turn ideas into seamless applications together!"
+        content="I'm a full-stack developer with expertise in web and mobile application development. Dive into my portfolio to witness the fusion of beautiful frontend design and robust backend architecture. Let's turn ideas into seamless digital experiences together!"
       />
       <meta
         name="keywords"
-        content="mobile app development,flutter developer,flutter,flutter dev,web application"
+        content="full stack developer,web development,mobile app development,backend development,frontend development,react,nextjs,nodejs"
       />
       <meta name="author" content="Bijith P N" />
       <meta property="og:title" content="biith pn portfolio" />
       <meta
         property="og:description"
-        content="I'm a skilled developer creating stunning, cross-platform mobile experiences. Dive into my portfolio to witness the fusion of beauty and functionality in each project. Let's turn ideas into seamless applications together!"
+        content="I'm a full-stack developer with expertise in web and mobile application development. Dive into my portfolio to witness the fusion of beautiful frontend design and robust backend architecture. Let's turn ideas into seamless digital experiences together!"
       />
       <meta
         property="og:image"
@@ -29,7 +29,7 @@ const MetaTags = () => {
       <meta name="twitter:title" content="Bijith P N" />
       <meta
         name="twitter:description"
-        content="Nothing new, just the boring stuff 😴✨."
+        content="Full-stack developer specializing in web and mobile applications. Creating seamless digital experiences with modern technologies."
       />
       <meta
         name="twitter:image"

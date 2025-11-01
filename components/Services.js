@@ -4,23 +4,23 @@ const Services = ({ extraClass }) => {
   const services = [
     {
       id: 1,
-      title: "UI/UX Design",
-      text: "Crafting seamless and visually stunning user experiences that captivate and engage.",
+      title: "Full Stack Web Development",
+      text: "Building complete web applications with modern frontend frameworks and robust backend systems, ensuring seamless integration and optimal performance.",
     },
     {
       id: 2,
-      title: "Website Development",
-      text: "Building dynamic and responsive websites that leave a lasting digital impression.",
+      title: "Mobile App Development",
+      text: "Creating cross-platform mobile applications for iOS and Android with responsive design and native-like performance.",
     },
     {
       id: 3,
-      title: "Mobile App Development",
-      text: "Creating cross-platform mobile applications with a focus on performance and user satisfaction.",
+      title: "Backend Development",
+      text: "Designing and implementing scalable server-side architectures, APIs, and database solutions for your applications.",
     },
     {
       id: 4,
-      title: "API Testing",
-      text: "Ensuring the reliability and efficiency of APIs through comprehensive testing and validation.",
+      title: "UI/UX Design",
+      text: "Crafting intuitive and visually appealing user interfaces that enhance user engagement and satisfaction.",
     },
   ];
   return (
@@ -34,7 +34,7 @@ const Services = ({ extraClass }) => {
             <div className="section-title text-center mb-60 wow fadeInUp delay-0-2s">
               <span className="sub-title mb-15">Services</span>
               <h2>
-                <span> Service</span> I offer for your scalable software
+                <span> Services</span> I offer for your scalable software
                 solutions.
               </h2>
             </div>

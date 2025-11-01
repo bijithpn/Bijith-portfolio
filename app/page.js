@@ -21,7 +21,7 @@ export default function Home() {
           <span className="marquee-wrap">
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -29,11 +29,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -51,7 +51,7 @@ export default function Home() {
             </span>{" "}
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -59,11 +59,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -81,7 +81,7 @@ export default function Home() {
             </span>{" "}
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -89,11 +89,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -120,7 +120,7 @@ export default function Home() {
           <span className="marquee-wrap">
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -128,11 +128,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -150,7 +150,7 @@ export default function Home() {
             </span>{" "}
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -158,11 +158,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -180,7 +180,7 @@ export default function Home() {
             </span>{" "}
             <span className="marquee-inner left">
               <span className="marquee-item">
-                Android
+                Web Apps
                 <i className="far fa-asterisk" />
               </span>
               {/* <span className="marquee-item">
@@ -188,11 +188,11 @@ export default function Home() {
                 <i className="far fa-asterisk" />
               </span> */}
               <span className="marquee-item">
-                Web development
+                Mobile Apps
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
-                Flutter
+                Full Stack
                 <i className="far fa-asterisk" />
               </span>
               <span className="marquee-item">
@@ -220,20 +220,20 @@ export default function Home() {
           <span className="marquee-wrap style-two pb-20">
             <span className="marquee-inner left">
               <span className="marquee-item">
-                <span> _ Designer _</span> Bijith <span>_ Developer _ </span>{" "}
-                Bijith{" "}
+                <span> _ Full Stack _</span> Developer{" "}
+                <span>_ Web & Mobile _ </span> Specialist{" "}
               </span>
             </span>
             <span className="marquee-inner left">
               <span className="marquee-item">
-                <span> _ Designer _</span> Bijith <span>_ Developer _ </span>{" "}
-                Bijith{" "}
+                <span> _ Full Stack _</span> Developer{" "}
+                <span>_ Web & Mobile _ </span> Specialist{" "}
               </span>
             </span>
             <span className="marquee-inner left">
               <span className="marquee-item">
-                <span> _ Designer _</span> Bijith <span>_ Developer _ </span>{" "}
-                Bijith{" "}
+                <span> _ Full Stack _</span> Developer{" "}
+                <span>_ Web & Mobile _ </span> Specialist{" "}
               </span>
             </span>
           </span>

@@ -208,10 +208,10 @@ export const Contact2 = () => {
                 <div className="col-sm-8">
                   <h3>i,m avaiable at</h3>
                   <h5>
-                    <i className="far fa-envelope" /> bijithpn@gmail.com
+                    <i className="far fa-envelope" /> bijithpn.dev@gmail.com
                   </h5>
                   <h5>
-                    <i className="far fa-phone" /> +91 7994552488
+                    <i className="far fa-phone" /> +91 7994155202
                   </h5>
                 </div>
                 <div className="col-sm-4">
