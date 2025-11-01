@@ -34,7 +34,7 @@ const items = [
   {
     id: 6,
     name: "React",
-    image: "assets/images/skills/skill6.png",
+    image: "assets/images/skills/skill8.png",
     value: "86",
   },
   {

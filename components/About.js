@@ -63,19 +63,19 @@ const About = () => {
                 <div className="row gap-40 justify-content-center">
                   <div className="col-lg-5 col-6 mx-5">
                     <div className="counter-item counter-text-wrap mb-25 wow fadeInUp delay-0-2s">
-                      <Counter end={8} extraClass={""} />
+                      <Counter end={12} extraClass={""} />
                       <span className="counter-title">Projects</span>
                     </div>
                   </div>
                   <div className="col-lg-5 col-6">
                     <div className="counter-item counter-text-wrap wow fadeInDown delay-0-2s">
-                      <Counter end={1.5} extraClass={"y"} />
+                      <Counter end={3} extraClass={"y"} />
                       <span className="counter-title">Experience</span>
                     </div>
                   </div>
                   <div className="col-lg-5 col-6">
                     <div className="counter-item counter-text-wrap wow fadeInDown delay-0-2s">
-                      <Counter end={2} extraClass={"+"} />
+                      <Counter end={7} extraClass={"+"} />
                       <span className="counter-title">Clients</span>
                     </div>
                   </div>
@@ -172,19 +172,19 @@ export const About2 = () => {
                 <div className="row gap-40 justify-content-center">
                   <div className="col-lg-5 col-6 mx-5">
                     <div className="counter-item counter-text-wrap mb-25 wow fadeInUp delay-0-2s">
-                      <Counter end={5} extraClass={""} />
+                      <Counter end={12} extraClass={""} />
                       <span className="counter-title">project completed</span>
                     </div>
                   </div>
                   <div className="col-lg-5 col-6">
                     <div className="counter-item counter-text-wrap wow fadeInDown delay-0-2s">
-                      <Counter end={1.5} extraClass={"y"} />
+                      <Counter end={3} extraClass={"y"} />
                       <span className="counter-title">Years Experience</span>
                     </div>
                   </div>
                   <div className="col-lg-5 col-6">
                     <div className="counter-item counter-text-wrap wow fadeInDown delay-0-2s">
-                      <Counter end={10} extraClass={"+"} />
+                      <Counter end={7} extraClass={"+"} />
                       <span className="counter-title">Satisfied customers</span>
                     </div>
                   </div>
